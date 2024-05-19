@@ -1,0 +1,8 @@
+13:04:09 **** Clean-only build of configuration Debug for project StringClass ****
+rm -rf src/StringClass.d StringClass.exe src/StringClass.o 
+Cannot run program "rm": Launching failed
+
+Error: Program "rm" not found in PATH
+PATH=[C:\msys64\ucrt64\bin;\bin;C:/Program Files/Java/jre-1.8/bin/server;C:/Program Files/Java/jre-1.8/bin;C:/Program Files/Java/jre-1.8/lib/amd64;C:\Program Files (x86)\Common Files\Oracle\Java\java8path;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\HP\HP One Agent;C:\Program Files\Git\cmd;C:\Program Files\TortoiseGit\bin;C:\Users\dhany\AppData\Local\Microsoft\WindowsApps;C:\msys64\ucrt64\bin;;D:\Eclipse\eclipse-cpp-kepler-SR2-win32-x86_64\eclipse]
+
+13:04:10 **** Clean-only build of configuration Debug for project StringClass ****
